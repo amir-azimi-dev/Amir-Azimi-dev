@@ -1,5 +1,5 @@
 <h3 align='center'>Hi there 👋, I am Amir Azimi.</Hi></h3>
-<h4 align='center'>I am a full stack web application developer from Iran.</h4>
+<h4 align='center'>I am a MERN Stack web application developer from Iran.</h4>
 <br/>
   
 <h4 align='center'>
