@@ -54,10 +54,10 @@
 ---
 <h4 align='center'> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-azimi-github&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-azimi-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir-azimi-github&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir-azimi-dev&show_icons=true&theme=radical)
 
 </h4>
 
