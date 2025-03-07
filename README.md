@@ -56,7 +56,10 @@
 ---
 <h4 align='center'> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-azimi-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amir-azimi-dev&theme=github-dark)
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir-azimi-dev&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir-azimi-dev&show_icons=true&theme=radical)
