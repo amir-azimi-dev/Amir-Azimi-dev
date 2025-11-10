@@ -1,5 +1,5 @@
 <h3 align='center'>Hi there 👋, I am Amir Azimi.</Hi></h3>
-<h4 align='center'>I am a MERN Stack web application developer from Iran.</h4>
+<h4 align='center'>I am a MERN Stack web/mobile application developer from Iran.</h4>
 <br/>
   
 <h4 align='center' justify="">
@@ -53,7 +53,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 
 </h4>
 
